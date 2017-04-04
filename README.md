@@ -37,6 +37,7 @@ how it should look like:
 ## 10. open the [IPython file](https://github.com/christianreiser/export-facebook-friends-mail-addresses-/blob/master/export%20and%20sort%20name%20and%20mail%20from%20facebook%20friends.ipynb) from the github repository.
 
 ## 11. Change the filepath in the 3. line to your saved .csv filepath
+![](https://github.com/christianreiser/export-facebook-friends-mail-addresses-/blob/master/images/7.png)
 
 ## 12. Run code and copy & paste into the Yahoo CSV template fro step 4
 copy&paste the names in the columb First
