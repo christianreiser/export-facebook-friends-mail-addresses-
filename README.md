@@ -8,7 +8,7 @@ Facebook prevents users from exporting contacs directly to other social media we
 
 ## 3. Import facebook friends
 
-https://github.com/christianreiser/export-facebook-friends-mail-addresses-/blob/master/images/2.jpg
+![](https://github.com/christianreiser/export-facebook-friends-mail-addresses-/blob/master/images/2.jpg)
 
 ## 4. export contacts as Yahoo CSV 
 (actions -> Export...-> mark: Yahoo CSV)
@@ -16,19 +16,19 @@ this file will be empty but we will use it as a template later on
 
 ## 5. Print all contacts
 
-https://github.com/christianreiser/export-facebook-friends-mail-addresses-/blob/master/images/3.jpg
+![](https://github.com/christianreiser/export-facebook-friends-mail-addresses-/blob/master/images/3.jpg)
 
 ## 6. Basic view
 
-https://github.com/christianreiser/export-facebook-friends-mail-addresses-/blob/master/images/4.jpg
+![](https://github.com/christianreiser/export-facebook-friends-mail-addresses-/blob/master/images/4.jpg)
 
 ## 7. Cancel
 
-https://github.com/christianreiser/export-facebook-friends-mail-addresses-/blob/master/images/5.jpg
+![](https://github.com/christianreiser/export-facebook-friends-mail-addresses-/blob/master/images/5.jpg)
 
 how it should look like:
 
-https://github.com/christianreiser/export-facebook-friends-mail-addresses-/blob/master/images/6.jpg
+![](https://github.com/christianreiser/export-facebook-friends-mail-addresses-/blob/master/images/6.jpg)
 
 ## 8. mark and copy all contacts (IMPORTANT: only copy contct and mail adress, don't mark and copy heading and copyrights on the bottom)
 
