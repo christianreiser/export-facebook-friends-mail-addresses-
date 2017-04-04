@@ -44,4 +44,5 @@ copy&paste the email adresses in the columb Email
 
 ## 13. import this file in google contacts
 
-References: images are from http://www.techgainer.com/import-facebook-contacts-gmail-google-contacts/ and http://www.wikihow.com/Import-Facebook-Contacts-to-Yahoo-Mail
+# References
+images are from http://www.techgainer.com/import-facebook-contacts-gmail-google-contacts/ and http://www.wikihow.com/Import-Facebook-Contacts-to-Yahoo-Mail
