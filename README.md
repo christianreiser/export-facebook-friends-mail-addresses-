@@ -4,7 +4,7 @@ Facebook prevents users from exporting contacs directly to other social media we
 ## 1. login to Yahoo or create an account
 ## 2. Go to contacts
 
-https://github.com/christianreiser/export-facebook-friends-mail-addresses-/blob/master/images/1.jpg
+![](https://github.com/christianreiser/export-facebook-friends-mail-addresses-/blob/master/images/1.jpg)
 
 ## 3. Import facebook friends
 
