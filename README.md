@@ -1,5 +1,5 @@
 # Export-facebook-friends-mail-addresses-
-Facebook prevents users from exporting contacs directly to other social media web sites like Google+ or Linkedin. Consequently you can't directly import facebook friends to your google contacts. This is a manual for a workaround and takes about 5 minutes.
+Facebook prevents users from exporting contacs directly to other social media web sites like Google+ or Linkedin. Consequently you can't directly import facebook friends to your google contacts. This is a manual for a workaround and takes about 10 minutes.
 
 ## 1. login to Yahoo or create an account
 ## 2. Go to contacts
@@ -34,7 +34,7 @@ how it should look like:
 
 ## 9. Paste all in the first columb of a .csv file (i.e. excel or LibreOffice Calc). Save file.
 
-## 10. open the (IPython file)[https://github.com/christianreiser/export-facebook-friends-mail-addresses-/blob/master/export%20and%20sort%20name%20and%20mail%20from%20facebook%20friends.ipynb] from the github repository.
+## 10. open the [IPython file](https://github.com/christianreiser/export-facebook-friends-mail-addresses-/blob/master/export%20and%20sort%20name%20and%20mail%20from%20facebook%20friends.ipynb) from the github repository.
 
 ## 11. Change the filepath in the 3. line to your saved .csv filepath
 
